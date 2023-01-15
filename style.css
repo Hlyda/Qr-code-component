@@ -12,9 +12,9 @@ body {
   justify-content: center;
   align-items: center;
   /* margin: 4rem 0; */
-  height: 100vh;
+  min-height: 100vh;
 }
-.container {
+.main {
   max-width: 25rem;
   height: auto;
   background: hsl(0, 0%, 100%);
